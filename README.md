@@ -1,6 +1,6 @@
 # Famous museum painting analysis
 
-![](imagge.png)
+![](Intro_image.jpg)
 
 
 
